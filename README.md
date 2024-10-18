@@ -1,1 +1,2 @@
-# Customer segmentation presentation
+# Shopping customer segmentation presentation
+
