@@ -18,6 +18,6 @@ After performing clustering, we get the following customer clusters:
 ![clustering_bivariate](https://github.com/user-attachments/assets/55fa5cdb-b956-45c3-8b8e-8fd1f7f2a08f)
 
 **Target Cluster**
-- Tarhet group would be cluster 3 which has a high Spending Score and high income;
+- Target group would be cluster 3 which has a high Spending Score and high income;
 - 60% of cluster 3 shoppers are women. We should look for way to attract these customers using a marketing campaign targeting popular items in this cluster;
 - Cluster 4 presents an iteresting opportunity to market to the customers for sales event on popular items.
